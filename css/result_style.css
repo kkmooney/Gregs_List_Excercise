@@ -20,13 +20,8 @@ ul {
 	width: 100%;
 	height: 50px;
 	margin: 0px;
-	background-color: lightgrey;
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	padding-left: 20px;
 	padding-right: 20px;
-	width: 100%;
-	height: 50px;
-	margin: 0px;
 }
 
 .site-name {
@@ -60,9 +55,6 @@ ul {
 
 .site-nav li a:hover {
 	text-decoration: underline;
-}
-
-.search-form {
 }
 
 .search-section {
@@ -109,9 +101,6 @@ ul {
 	border-right: 1px solid lightgrey;
 	border-top-left-radius: 2px;
 	border-bottom-left-radius: 2px;
-}
-
-.results-nav .results-num {
 }
 
 .results-nav .next {
